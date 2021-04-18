@@ -18,5 +18,6 @@ public class Fibonacci extends ConsoleProgram {
 			t2 = t3;
 		}
 	}
+	
 	private static final int MAX_TERM_VALUE = 10000;
 }
